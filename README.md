@@ -9,10 +9,11 @@
 
 # Installation:
 #### Theme
-##Vencord
+## Vencord
 1. Copy raw link to TransparentPlus.theme.css into the online theme.
-   Under Linux make sure to have a compositor installed (picom works) and make sure to enable `Window Transparency` under Vencords settings
-##BetterDiscord
+Under Linux make sure to have a compositor installed (picom works) and make sure to enable `Window Transparency` under Vencords settings
+   
+## BetterDiscord
 1. Clone the repo.
 2. Extract the files to a folder.
 
