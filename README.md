@@ -2,16 +2,17 @@
 ## A transparent theme for BetterDiscord. Modded from [Translucence](https://betterdiscord.app/theme/Translucence).
 #### Originally modded by MeowIce#8543.
 
-# Preview:
-![image](https://user-images.githubusercontent.com/70711319/209673010-f65d94c2-7782-468a-aa98-28823d2f0ee0.png)
-![image](https://user-images.githubusercontent.com/70711319/209674206-4acab856-7ab8-4d3d-8c7e-8dad78d7a218.png)
 
 # Requirements:
-- [BetterDiscord](https://betterdiscord.app/)
+- [BetterDiscord](https://betterdiscord.app/) or Vencord
 - SF Pro Display font
 
 # Installation:
 #### Theme
+##Vencord
+1. Copy raw link to TransparentPlus.theme.css into the online theme.
+   Under Linux make sure to have a compositor installed (picom works) and make sure to enable `Window Transparency` under Vencords settings
+##BetterDiscord
 1. Clone the repo.
 2. Extract the files to a folder.
 
