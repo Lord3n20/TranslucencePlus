@@ -1,6 +1,6 @@
-# TranslucencePlus
+# TransparentPlus a fork from TranslucencePlus
 ## A transparent theme for BetterDiscord. Modded from [Translucence](https://betterdiscord.app/theme/Translucence).
-#### Modded by MeowIce#8543.
+#### Originally modded by MeowIce#8543.
 
 # Preview:
 ![image](https://user-images.githubusercontent.com/70711319/209673010-f65d94c2-7782-468a-aa98-28823d2f0ee0.png)
